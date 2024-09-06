@@ -5,7 +5,7 @@
 || Power BI || SQL || MS Excel || Python || Tableau || R Programming ||
 
 
-                                                            ABOUT ME
+_____________________________________________________________________________________________________________________________________________________________________
                                                                              
 I have a strong academic background in Physics with an MSc and a Diploma in Computer Applications. To further enhance my knowledge and technical skills, I have earned multiple certifications in Data Analytics and Data Science. I am actively seeking a Data Analyst role where I can use my analytical skills, problem-solving abilities, and technical knowledge to support data-driven strategies and informed decision-making in an organization.
 
