@@ -11,7 +11,7 @@ I have a strong academic background in Physics with an MSc and a Diploma in Comp
 To keep up with the fast-changing tech landscape, I am currently enrolled in a 6-month course in Artificial Intelligence and Machine Learning. This advanced training aims to deepen my understanding of AI/ML and provide me with the skills needed to tackle complex analytical challenges and drive innovation in the field.
 
 
-![Image Alt](https://github.com/sreekeshm77/sreekeshm77/blob/82871890884882a6ee36a6dc108622a354c609fe/Picsart_24-08-30_08-06-26-002.jpg)
+
 <!--
 **sreekeshm77/sreekeshm77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
