@@ -1,6 +1,8 @@
 🙋I' m sreekesh m 
+
 🌱I'm currently Learning Artificial Intelligence and Machine Learning 
-![Image Alt](image_url).
+
+![Image Alt](image_url).https://github.com/sreekeshm77/sreekeshm77/blob/82871890884882a6ee36a6dc108622a354c609fe/Picsart_24-08-30_08-06-26-002.jpg
 <!--
 **sreekeshm77/sreekeshm77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
