@@ -41,14 +41,14 @@ I am actively seeking a **Data Analyst** role where I can contribute to **data-d
 | Degree                      | Institution                       |
 |----------------------------|-----------------------------------|
 | MSc Physics                | Nehru Arts & Science College, Kanhangad |
-| Diploma in Computer Applications | [Your Institution Name]        |
+| Diploma in Computer Applications |     CCEK       |
 
 ---
 
 ## 📜 Certifications
 
 - ✅ **Data Science Specialization** – Internshala  
-- ✅ **AI & Machine Learning** – Ongoing (6-month program)  
+- ✅ **AI & Machine Learning** – Udemy 
 - ✅ **Power BI**, **Python**, **SQL**, **Advanced Excel**  
 - ✅ **Agile**, **Generative AI**, **NLP**, **Deep Learning**  
 - ✅ **MLOps**, **Computer Vision** (in progress)
@@ -62,7 +62,7 @@ I am actively seeking a **Data Analyst** role where I can contribute to **data-d
 | 📈 Data Analysis  | Python (Pandas, NumPy), SQL, Excel, Power BI               |
 | 🧠 AI & ML        | Scikit-learn, TensorFlow, PyTorch, OpenAI, HuggingFace     |
 | ⚙️ MLOps          | FastAPI, Docker, Streamlit, GitHub Actions (CI/CD)         |
-| 🌐 Web & Apps     | HTML, CSS, React (basic), Node.js, Streamlit               |
+| 🌐 Web & Apps     | HTML, CSS, Fast API, Streamlit               |
 | 🧩 GenAI Models   | GPT-3.5/4, LLaMA3, Mistral, LangChain, Groq, ChromaDB       |
 | 📂 Databases      | PostgreSQL, MySQL, SQLite, MongoDB (basic)                 |
 
