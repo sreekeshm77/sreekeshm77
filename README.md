@@ -100,7 +100,7 @@ I am actively seeking a **Data Analyst** role where I can contribute to **data-d
 <p align="left">
   <a href="mailto:sreekeshmarangattillam7@gmail.com"><img src="https://img.shields.io/badge/Email-sreekeshmarangattillam7@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/sreekesh-m-505385306"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/your-github-sreekeshm77"><img src="https://img.shields.io/badge/GitHub-yourusername-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/your-github-sreekeshm77"><img src="https://img.shields.io/badge/GitHub-sreekeshm77-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
